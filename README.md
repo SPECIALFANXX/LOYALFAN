@@ -341,7 +341,7 @@
         <header>SPECIAL SUPERFAN</header>
         <h2>Payment Confirmation</h2>
         <p>Please forward all payment screenshots to the following email address:</p>
-        <p><strong>Specialfansubscribe@gmail.com</strong></p>
+        <p><strong>Specialfansubcribe@gmail.com</strong></p>
         <p><strong>Then upload all screenshot</strong></p>
         <input type="file" id="payment-screenshot" accept="image/*" required>
         <button class="nav-button" onclick="submitPaymentScreenshot()">Submit</button>
