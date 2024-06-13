@@ -315,7 +315,7 @@
         <p>
             <label>
                 <input type="checkbox" id="subscription-agreement">
-                By checking this box, you acknowledge and agree to the annual subscription fee of $30.
+                By checking this box, you acknowledge and agree to the annual subscription fee of $40.
             </label>
         </p>
         <button class="nav-button" onclick="confirmSubscription()">Next</button>
@@ -341,7 +341,7 @@
         <header>SPECIAL SUPERFAN</header>
         <h2>Payment Confirmation</h2>
         <p>Please forward all payment screenshots to the following email address:</p>
-        <p><strong>mandymayfan@gmail.com</strong></p>
+        <p><strong>Specialfansubscribe@gmail.com</strong></p>
         <p><strong>Then upload all screenshot</strong></p>
         <input type="file" id="payment-screenshot" accept="image/*" required>
         <button class="nav-button" onclick="submitPaymentScreenshot()">Submit</button>
