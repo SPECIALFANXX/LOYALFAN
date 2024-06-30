@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SPECIAL SUPERFAN</title>
+    <title>Kate SPECIAL SUPERFAN</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -213,7 +213,7 @@
 </head>
 <body>
     <div id="signup-page" class="container">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Sign up to support your favorite creators</h2>
         <input type="text" id="signup-name" placeholder="Name" required>
         <input type="email" id="signup-email" placeholder="Email" required>
@@ -224,7 +224,7 @@
     </div>
 
     <div id="login-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Log in</h2>
         <input type="email" id="login-email" placeholder="Email" required>
         <input type="password" id="login-password" placeholder="Password" required>
@@ -234,7 +234,7 @@
     </div>
 
     <div id="thank-you-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Thank You!</h2>
         <p>I just wanted to take a moment to say thank you to all my amazing fans! Your support means the world to me, and I couldn't do this without you. You all are the best, and I'm so grateful for each and every one of you.</p>
         <p>Lots of love, </p>
@@ -242,7 +242,7 @@
     </div>
 
     <div id="info-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Fill in your information</h2>
         <input type="text" id="full-name" placeholder="Full Name" required>
         <input type="date" id="dob" placeholder="Date of Birth" required>
@@ -272,7 +272,7 @@
     </div>
 
     <div id="fan-club-info-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Fan Club-Specific Information</h2>
         <textarea id="how-hear" placeholder="How did you hear about the fan club?" rows="3" required></textarea>
         <textarea id="hopes" placeholder="What do you hope to gain from joining the fan club?" rows="3" required></textarea>
@@ -282,7 +282,7 @@
     </div>
 
     <div id="superfans-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>❤️‍🔥What my superfans grant ⬇️</h2>
         <p>📍Daily New Content (over 500 sexy & nudes pics including vids you get immediate access to upon subscription)</p>
         <p>📍B/G and Solo content (PPV)</p>
@@ -298,7 +298,7 @@
     </div>
 
     <div id="subscription-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Profile Information</h2>
         <div class="profile-info">
             <p><strong>Full Name:</strong> <span id="profile-full-name"></span></p>
@@ -323,25 +323,25 @@
     </div>
 
     <div id="payment-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Payment Mode</h2>
         <p>Please select your payment method:</p>
         <button class="payment-button" onclick="showPaymentDetails('cashapp')">Cash App</button>
         <button class="payment-button" onclick="showPaymentDetails('paypal')">PayPal</button>
         <button class="payment-button" onclick="showPaymentDetails('crypto')">Crypto</button>
         <div id="payment-details">
-            <p id="cashapp-info" class="hidden">$SoutherFusion</p>
-            <p id="paypal-info" class="hidden">M.howe30@yahoo.com</p>
-            <p id="crypto-info" class="hidden">1PuFPnuCdrdT8Nd7zSruLfQBHeGCszqc16</p>
+            <p id="cashapp-info" class="hidden">**********</p>
+            <p id="paypal-info" class="hidden">**************/p>
+            <p id="crypto-info" class="hidden">1NvzgrLck1TpVqjDnNWorvm8wkEhc3FPyX</p>
         </div>
         <button class="nav-button" onclick="showPage('email-page')">Next</button>
     </div>
 
     <div id="email-page" class="container hidden">
-        <header>SPECIAL SUPERFAN</header>
+        <header>Kate SPECIAL SUPERFAN</header>
         <h2>Payment Confirmation</h2>
         <p>Please forward all payment screenshots to the following email address:</p>
-        <p><strong>specialfansubcribe@gmail.com</strong></p>
+        <p><strong>Katejhnsn130@gmail.com</strong></p>
         <p><strong>Then upload all screenshot</strong></p>
         <input type="file" id="payment-screenshot" accept="image/*" required>
         <button class="nav-button" onclick="submitPaymentScreenshot()">Submit</button>
